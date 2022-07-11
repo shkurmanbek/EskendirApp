@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "690305939168",
+    "firebase_url": "https://insurance-app-25f76-default-rtdb.firebaseio.com",
+    "project_id": "insurance-app-25f76",
+    "storage_bucket": "insurance-app-25f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690305939168:android:944e07ca734ae63552c285",
+        "android_client_info": {
+          "package_name": "com.example.eskendirapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690305939168-m43955n9nsq0cf33j6el678f0k3statm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4LN7e-cDNTVGTx_pjZ30uUei9_1cL1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690305939168-m43955n9nsq0cf33j6el678f0k3statm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690305939168:android:022b5432f6b0986252c285",
+        "android_client_info": {
+          "package_name": "com.example.insuranceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690305939168-m43955n9nsq0cf33j6el678f0k3statm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4LN7e-cDNTVGTx_pjZ30uUei9_1cL1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690305939168-m43955n9nsq0cf33j6el678f0k3statm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
